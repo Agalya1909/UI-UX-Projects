@@ -34,7 +34,7 @@ An email template is a pre-designed format used to send out marketing or promoti
 - **Easy to Use**: Users can easily navigate and customize the template to fit their needs, ensuring a hassle-free experience.
 - **Responsive**: The template is optimized to look great on all devices, including desktops, laptops, tablets, and smartphones.
 
-[**FOR DEMO CLICK HERE**](#https://www.figma.com/proto/DWRFnbgkIj02VSTpW8uz8N/Email-Template?node-id=0-1&t=x3HFGXbJOCpGk5BG-1)
+[*FOR DEMO CLICK HERE*](https://www.figma.com/proto/DWRFnbgkIj02VSTpW8uz8N/Email-Template?node-id=0-1&t=x3HFGXbJOCpGk5BG-1)
 
 ## Task 3: Restaurant Menu
 
@@ -46,7 +46,7 @@ The restaurant menu UI/UX project focuses on designing a menu that is both visua
 - **Easy to Use**: The menu is structured to ensure easy navigation, allowing customers to quickly find the information they need and make their selections.
 - **Categorized**: The dishes are categorized in a clear and consistent manner, making it simple for customers to browse and find specific items.
 
-[**FOR DEMO CLICK HERE**](#https://www.figma.com/proto/OIgA20xXODosP9cwPu3SIi/CodSoft---Task-1?node-id=1-2&t=2uWgoQYlrK7wpQex-1)
+[*FOR DEMO CLICK HERE*](https://www.figma.com/proto/OIgA20xXODosP9cwPu3SIi/CodSoft---Task-1?node-id=1-2&t=2uWgoQYlrK7wpQex-1)
 (Drag instead of clicking for response)
 
 ## Conclusion

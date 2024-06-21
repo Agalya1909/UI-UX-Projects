@@ -22,7 +22,7 @@ A mobile app signup flow is the initial process where users create an account an
 - **Error-free**: The flow is thoroughly tested to ensure it is free of errors, reducing the likelihood of user frustration.
 - **Secure**: Robust security measures are in place to protect users' personal information.
 
-[**FOR DEMO CLICK HERE**](#https://www.figma.com/proto/OIgA20xXODosP9cwPu3SIi/CodSoft---Task-3?node-id=1-2&t=2uWgoQYlrK7wpQex-1)
+[*FOR DEMO CLICK HERE*](#https://www.figma.com/proto/OIgA20xXODosP9cwPu3SIi/CodSoft---Task-3?node-id=1-2&t=2uWgoQYlrK7wpQex-1)
 
 ## Task 2: Email Template
 

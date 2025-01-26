@@ -10,7 +10,8 @@ This project showcases a series of UI/UX tasks designed to enhance user interact
 
 
 # PORTFOLIO 
-[*FOR DEMO CLICK HERE*]([https://www.figma.com/proto/OIgA20xXODosP9cwPu3SIi/CodSoft---Task-3?node-id=1-2&t=2uWgoQYlrK7wpQex-1](https://www.figma.com/proto/hYb3lmSaMznsTiAqakJ2Bn/Agalya-portfolio?page-id=0%3A1&node-id=1-2&p=f&viewport=965%2C1200%2C0.27&t=FNfpVaaoqMTWiuco-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A2&hide-ui=1))
+[*FOR DEMO CLICK HERE*](https://www.figma.com/proto/hYb3lmSaMznsTiAqakJ2Bn/Agalya-portfolio?page-id=0%3A1&node-id=1-2&p=f&viewport=965%2C1200%2C0.27&t=FNfpVaaoqMTWiuco-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A2&hide-ui=1)
+
 
 # Task List
 

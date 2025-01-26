@@ -1,12 +1,16 @@
-# CodSoft - UI/UX
+# UI/UX Designs
 
 ## Introduction
 
-Welcome to the CodSoft UI/UX repository. This project encompasses the design and development of various UI/UX components using Figma, aiming to create seamless and engaging user experiences. The repository includes three primary tasks: a mobile app signup flow, an email template, and a restaurant menu interface. Each task is meticulously crafted to meet high standards of usability, aesthetic appeal, and functionality.
+Welcome to the UI/UX Designs repository. This repository encompasses the design and development of various UI/UX components using Figma, aiming to create seamless and engaging user experiences. The repository includes my portfolio along with three primary tasks: a mobile app signup flow, an email template, and a restaurant menu interface. Each task is meticulously crafted to meet high standards of usability, aesthetic appeal, and functionality.
 
 ## Description
 
 This project showcases a series of UI/UX tasks designed to enhance user interaction and satisfaction. Each task is executed using Figma, a leading design tool that facilitates collaborative and efficient design processes. Below is a detailed description of each task, highlighting their features and functionalities.
+
+
+# PORTFOLIO 
+[*FOR DEMO CLICK HERE*]([https://www.figma.com/proto/OIgA20xXODosP9cwPu3SIi/CodSoft---Task-3?node-id=1-2&t=2uWgoQYlrK7wpQex-1](https://www.figma.com/proto/hYb3lmSaMznsTiAqakJ2Bn/Agalya-portfolio?page-id=0%3A1&node-id=1-2&p=f&viewport=965%2C1200%2C0.27&t=FNfpVaaoqMTWiuco-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A2&hide-ui=1))
 
 # Task List
 
